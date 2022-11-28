@@ -3,7 +3,7 @@ Hello, my name is Yi Miao, BSc, MSc.
 I worked as an IT consultant at BMO, CIBC, TD, Sociabank and State Street for about 20 years on Market Risk  
 Credit Risk, Operational Risk, Liquidity Risk and Technologies.  
 
-With my education background on Electrical Engineering, PhD research on Intelligent Agent and certified SCSA,  
+With my education background of Electrical Engineering, PhD research on Intelligent Agent and certified SCSA,  
 OCP DBA, SCEA, PMP and CIM many years ago, I recently have some time to persue my personal interests in  
 some areas of Data Science, focused on Computer Vision and Machine Learning perticularly.  
 
