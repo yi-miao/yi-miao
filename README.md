@@ -4,10 +4,10 @@ I worked as an IT consultant at BMO, CIBC, TD, Sociabank and State Street for ab
 Credit Risk, Operational Risk, Liquidity Risk and Technologies.  
 
 With my education background on Electrical Engineering, PhD research on Intelligent Agent and certified SCSA,  
-OCP DBA, SCEA, PMP and CIM many years ago, I recently some time to persue my personal interests in some areas  
-of Data Science, focused on Computer Vision and Machine Learning perticularly.  
+OCP DBA, SCEA, PMP and CIM many years ago, I recently have some time to persue my personal interests in  
+some areas of Data Science, focused on Computer Vision and Machine Learning perticularly.  
 
-I am also interested in reading (history, philosophy and psychology etc.), travel and home renovation.
+I am also interested in investment, reading (history, philosophy and psychology), travel and home renovation.  
 
 BSc EE, Nanjing University of Science and Technology  
 MSc EE, Beijing University of Aeronautics and Astronautics  
