@@ -5,7 +5,7 @@ Credit Risk, Operational Risk, Liquidity Risk and Technologies.
 
 With my education background of Electrical Engineering, PhD research on Intelligent Agent and certified SCSA,  
 OCP DBA, SCEA, PMP and CIM many years ago, I recently have some time to persue my personal interests in  
-some areas of Data Science, focused on Computer Vision and Machine Learning perticularly.  
+some areas of Data Science, focused on Computer Vision, Machine Learning and Animation perticularly.  
 
 I am also interested in investment, reading (history, philosophy and psychology), travel and home renovation.  
 
