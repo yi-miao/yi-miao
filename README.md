@@ -1,6 +1,6 @@
 Hello, my name is Yi Miao (miaoyi@rogers.com), BSc, MSc.  
 
-I worked as an IT consultant at BMO, CIBC, TD, Sociabank and State Street for about 20 years on Market Risk  
+I worked as a consultant at BMO, CIBC, TD, Sociabank and State Street for about 20 years on Market Risk  
 Credit Risk, Operational Risk, Liquidity Risk and Technologies.  
 
 With my education background of Electrical Engineering, PhD research on Intelligent Agent and certified SCSA,  
