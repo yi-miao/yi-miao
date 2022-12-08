@@ -5,7 +5,7 @@ BMO, CIBC, TD, Sociabank and State Street for about 20 years on Financial Risk T
 
 With my education background on Electrical Engineering, PhD research on Intelligent Agent and certified SCSA,  
 OCP DBA, SCEA, PMP and CIM many years ago, I recently have chance to persue my interests in some areas of  
-Data Science focused on Computer Vision, Machine Learning and Gaming perticularly.   
+Data Science focused on Computer Vision and Machine Learning perticularly.   
 
 BSc EE, Nanjing University of Science and Technology, 1983  
 MSc EE, Beijing University of Aeronautics and Astronautics, 1989  
