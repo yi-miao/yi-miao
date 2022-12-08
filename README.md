@@ -1,6 +1,6 @@
 Hello, my name is Yi Miao (miaoyi@rogers.com), BSc, MSc.  
 
-I used to be an electronic engineer and professional software developer before working as a consultant at  
+I was an electronic engineer and professional software developer before providing consulting services at  
 BMO, CIBC, TD, Sociabank and State Street for about 20 years on Financial Risk Technology.  
 
 With my education background on Electrical Engineering, PhD research on Intelligent Agent and certified SCSA,  
