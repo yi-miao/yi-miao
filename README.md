@@ -1,2 +1,1 @@
-Hello, My name is Yi Miao (miaoyi@rogers.com). 
-I am a hobbyist in Robotics and AI.  
+Hello, I am Yi Miao, interested in Robotics and AI.  
